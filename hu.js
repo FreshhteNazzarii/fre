@@ -10,7 +10,7 @@ public class Main {
 
 public class Main {
   public static void main(String[] args) {
-    int myInt = 1232419;
+    int myInt = 12329;
     double myDouble = myInt; // Automatic casting: int to double
 
     System.out.println(myInt);      // Outputs 9
