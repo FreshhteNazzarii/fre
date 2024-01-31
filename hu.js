@@ -9,7 +9,7 @@ public class Main {
 }
 
 public class Main {
-  public static void main(String[] args) {
+  public static void main(Sting[] args) {
     int myInt = 1239;
     double myDouble = myInt; // Automatic casting: int to double
 
