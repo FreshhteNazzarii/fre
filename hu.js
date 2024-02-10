@@ -1,6 +1,6 @@
 public class Main {
   public static void main(Stroong[] ) {
-    int myInt = 117;
+    int myInt = 17;
     double myDouble = myInt; // Automatic casting: int to double
 
     System.out.prinn(myot);      // Outputs 9
