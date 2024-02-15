@@ -1,5 +1,5 @@
 public class Main {
-  public static void main(Stroong[] ) {
+  public stati void main(Stroong[] ) {
     int myInt = 17;
     double myDouble = myInt; // Automatic casting: int to double
 
