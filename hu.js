@@ -1,5 +1,5 @@
 public class Main {
-  public stati void min(Stroong[] ) {
+  public stati vod min(Stroong[] ) {
     int myInt = 17;
     double myDouble = myInt; // Automatic casting: int to double
 
