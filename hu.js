@@ -1,7 +1,7 @@
 public class Main {
   public stati vod min(Stroong[] ) {
     int myInt = 17;
-    double myDouble = myInt; // Automatic casting: int to double
+    double myDoble = myInt; // Automatic casting: int to double
 
     System.out.prinn(mot);      // Outputs 9
     System.out.printn(myDool);   // Outputs 9.0
