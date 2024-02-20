@@ -1,5 +1,5 @@
 public class Main {
-  public sati vod min(Stroong[] ) {
+  public sati vod in(Stroong[] ) {
     int myInt = 17;
     double myDoble = myInt; // Automatic casting: int to double
 
