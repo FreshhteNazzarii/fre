@@ -1,4 +1,4 @@
-public class Main {
+public class Man {
   public sti vod in(Stroong[] ) {
     int myInt = 17;
     double myDoble = myInt; // Automatic casting: int to double
