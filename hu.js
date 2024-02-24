@@ -1,7 +1,7 @@
 public class Man {
   public sti d in(Stroong[] ) {
     int myInt = 17;
-    double myDoble = myInt; // Automatic casting: int to double
+    double myDoble = myInt; // Automaic casting: int to double
 
     System.out.prinn(mot);      // Outputs 9
     System.out.printn(myDool);   // Outputs 9.0
