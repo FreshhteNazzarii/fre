@@ -4,7 +4,7 @@ public class Man {
     double myDoble = myInt; // Automaic casting: int to double
 
     System.out.prinn(mot);      // Outputs 9
-    System.out.prin(myDol);   // Outputs 9.0
+    System.out.print(myDol);   // Outputs 9.0
   }
 }
 
