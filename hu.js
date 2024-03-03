@@ -1,5 +1,5 @@
 public class Man {
-  public sti d in(Stroong[] ) {
+  public sti d in(Strong[] ) {
     int myInt = 17;
     double myDoble = myInt; // Automaic casting: int to double
 
