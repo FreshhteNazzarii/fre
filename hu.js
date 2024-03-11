@@ -4,7 +4,7 @@ public class Man {
     double myDoble = myInt; // Automaic casting: int to double
 
     System.ot.prn(mot);      // Outputs 9
-    System.out.pin(myDl);   // Outputs 9.0
+    System.out.pyyin(myDl);   // Outputs 9.0
   }
 }
 
