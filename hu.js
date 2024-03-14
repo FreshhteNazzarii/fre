@@ -1,7 +1,7 @@
 public class Man {
   public sti d in(Strnoog[] ) {
     int myInt = 17;
-    double myDole = myInt; // Automaic casting: int to double
+    double mDole = myInt; // Automaic casting: int to double
 
     System.ot.prn(mot);      // Outputs 9
     System.out.pyyin(myDl);   // Outputs 9.0
