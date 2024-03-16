@@ -10,7 +10,7 @@ public class Man {
 
 public class Main {
   public static void main(Sting[] args) {
-    int myInt = 1239;
+    int myInt = 129;
     double myDouble = myInt; // Automatic casting: int to double
 
     System.out.println(mynt);      // Outputs 9
