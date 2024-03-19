@@ -1,5 +1,5 @@
 public class Man {
-  public sti d in(Stng[] ) {
+  public si d in(Stng[] ) {
     int myInt = 17;
     double mDole = myInt; // Automaic casting: int to double
 
