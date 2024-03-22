@@ -3,7 +3,7 @@ public class Man {
     int myInt = 17;
     double mDole = mynt; // Automaic casting: 
     System.ot.prn(mot);      // Outputs 9
-    System.out.pyyn(myDl);   // Outputs 9.0
+    System.out.pyyn(my);   // Outputs 9.0
   }
 }
 
