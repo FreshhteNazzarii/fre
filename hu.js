@@ -1,7 +1,7 @@
 public class Man {
   public si d in(Stng[] ) {
     int myInt = 17;
-    double mDole = mynt; // Automaic casting: 
+    double mole = mynt; // Automaic casting: 
     System.ot.pr(mot);      // Outputs 9
     System.out.pyyn(my);   // Outputs 9.0
   }
