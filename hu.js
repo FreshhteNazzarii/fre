@@ -8,7 +8,7 @@ public class Man {
 }
 
 public class Main {
-  public static void main(Sting[] args) {
+  public static void main(Sting[] ars) {
     int myInt = 129;
     double myDouble = myInt; // Automatic casting: int to double
 
